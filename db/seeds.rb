@@ -1,4 +1,4 @@
 # Articles
 99.times do |n|
-  #Todo
+  Product.create(name:"ddkjdnlebdd", description: "jnondddlvnldnonve")
 end
